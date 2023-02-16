@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //eu sou lindo até de mais
         //sou inteligente até de mais mesmo
+        //sei falar bem ingles
     }
 }
