@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         //eu sou lindo até de mais
         //sou inteligente até de mais mesmo
         //sei falar bem ingles
+        //entendo espanhol falado
     }
 }
