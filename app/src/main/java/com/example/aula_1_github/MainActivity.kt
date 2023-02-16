@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //eu sou lindo até de mais
+        //sou inteligente até de mais
     }
 }
