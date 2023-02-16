@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         //sou inteligente até de mais mesmo
         //sei falar bem ingles
         //entendo espanhol falado
+        //quero aprender ucraniano
     }
 }
